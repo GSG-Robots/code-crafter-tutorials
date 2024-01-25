@@ -1,0 +1,31 @@
+{
+    "tutorials": {
+        "getting-started": {
+            "title": "Getting Started",
+            "author": "JoJoJux",
+            "version": "1.0.0",
+            "description": "A tutorial on how to get started."
+        },
+        "fix-no-folder-open": {
+            "title": "Einen Ordner öffnen",
+            "author": "JoJoJux",
+            "version": "1.0.0",
+            "description": "Intro",
+            "hidden": true
+        },
+        "fix-no-codecrafter-project": {
+            "title": "CodeCrafter installieren",
+            "author": "JoJoJux",
+            "version": "1.0.0",
+            "description": "Intro",
+            "hidden": true
+        },
+        "fix-no-main-file": {
+            "title": "main.py erstellen",
+            "author": "JoJoJux",
+            "version": "1.0.0",
+            "description": "Intro",
+            "hidden": true
+        }
+    }
+}

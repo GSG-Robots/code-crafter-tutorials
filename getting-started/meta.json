@@ -1,0 +1,13 @@
+{
+    "display": {
+        "file": "tutorial.md",
+        "type": "markdown"
+    },
+    "checks": [
+        {
+            "type": "ast",
+            "at": "{ROOT}/main.py",
+            "from": "solution.py"
+        }
+    ]
+}

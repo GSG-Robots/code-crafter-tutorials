@@ -1,0 +1,12 @@
+{
+    "display": {
+        "file": "tutorial.md",
+        "type": "markdown"
+    },
+    "checks": [
+        {
+            "type": "file_exists",
+            "at": "{ROOT}"
+        }
+    ]
+}
