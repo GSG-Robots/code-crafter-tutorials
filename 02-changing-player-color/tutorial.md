@@ -2,42 +2,42 @@
 
 1. Um die Spielerfarbe zu ändern, kannst du `set_player_color` verwenden. `set_player_color` nimmt ein Argument welches die Farbe des Spielers beschreibt. Hier verwenden wir zunächst `Color.BLACK` um den Spieler schwarz anzuzeigen.  
 
-    Das sieht dann so aus:
-    ```python
-    set_player_color(Color.BLACK)
-    ```
+  Das sieht dann so aus:
+  ```python
+  set_player_color(Color.BLACK)
+  ```
 
-    Füge diese Zeile in deinen Code ein, zwischen `from prgrmr import *` und `run()`. Dein Code sollte dann so aussehen:
-    
-    ```python
-    from prgrmr import *
+  Füge diese Zeile in deinen Code ein, zwischen `from prgrmr import *` und `run()`. Dein Code sollte dann so aussehen:
 
-    set_player_color(Color.BLACK)
+  ```python
+  from prgrmr import *
 
-    run()
-    ```
+  set_player_color(Color.BLACK)
 
-    Wenn du auf das "Play"-Symbol oben rechts im Editor klickst, wird der Code ausgeführt und der Spieler wird jetzt schwarz angezeigt.  
+  run()
+  ```
+
+  Wenn du auf das "Play"-Symbol oben rechts im Editor klickst, wird der Code ausgeführt und der Spieler wird jetzt schwarz angezeigt.  
 
 2. Versuche nun, den Spieler in einer anderen Farbe anzuzeigen. Ändere die Farbe des Spielers in rot, indem du `Color.RED` als Argument für `set_player_color` verwendest.
 
-    ```python
-    set_player_color(Color.RED)
-    ```
-    
-    > [!TIP]
-    > Die weiteren Verfügbaren Farben sind:
-    > * `Color.BLUE`
-    > * `Color.GREEN`
-    > * `Color.YELLOW`
-    > * `Color.PURPLE`
-    > * `Color.ORANGE`
-    > * `Color.CYAN`
-    > * `Color.MAGENTA`
-    > * `Color.BROWN`
-    > * `Color.WHITE`
+  ```python
+  set_player_color(Color.RED)
+  ```
+  
+  > [!TIP]
+  > Die weiteren Verfügbaren Farben sind:
+  > * `Color.BLUE`
+  > * `Color.GREEN`
+  > * `Color.YELLOW`
+  > * `Color.PURPLE`
+  > * `Color.ORANGE`
+  > * `Color.CYAN`
+  > * `Color.MAGENTA`
+  > * `Color.BROWN`
+  > * `Color.WHITE`
 
-    Damit kannst du den Spieler in jeder Farbe anzeigen, die du möchtest.
+  Damit kannst du den Spieler in jeder Farbe anzeigen, die du möchtest.
 
 ## Zusammenfassung
 
