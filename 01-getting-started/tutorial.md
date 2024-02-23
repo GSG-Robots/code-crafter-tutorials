@@ -1,6 +1,6 @@
 # Dein eigenes Spiel
 
-Um mit deinem Spiel loszulegen, schreibe die beiden Folgenden Zeilen in den Editor auf der linken Seite:
+Um mit deinem Spiel loszulegen, schreibe die beiden Folgenden Zeilen in den Editor auf der rechten Seite:
 
 ```python
 from prgrmr import *

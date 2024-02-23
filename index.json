@@ -1,10 +1,22 @@
 {
     "tutorials": {
-        "getting-started": {
-            "title": "Getting Started",
+        "01-getting-started": {
+            "title": "Dein eigenes Spiel!",
             "author": "JoJoJux",
             "version": "1.0.0",
             "description": "A tutorial on how to get started."
+        },
+        "02-changing-player-color": {
+            "title": "Spielerfarbe ändern",
+            "author": "JoJoJux",
+            "version": "1.0.0",
+            "description": "Die Farbe des Spielers auf einige Voreingestellte Farben ändern"
+        },
+        "03-RGB-colors": {
+            "title": "Eigene Farben mischen und verwenden",
+            "author": "JoJoJux",
+            "version": "1.0.0",
+            "description": "Die Farbe des Spielers auf einige Voreingestellte Farben ändern"
         },
         "fix-no-folder-open": {
             "title": "Einen Ordner öffnen",
