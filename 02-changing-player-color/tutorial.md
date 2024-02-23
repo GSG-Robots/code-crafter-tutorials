@@ -7,16 +7,6 @@
     set_player_color(Color.BLACK)
     ```
 
-    > [!TIP]
-    > Dein Code sollte jetzt so aussehen:
-    > ```python
-    > from prgrmr import *
-    >
-    > set_player_color(Color.BLACK)
-    >
-    > run()
-    > ```
-
     Wenn du auf das "Play"-Symbol oben rechts im Editor klickst, wird der Code ausgeführt und der Spieler wird jetzt schwarz angezeigt.  
 
 2. Versuche nun, den Spieler in einer anderen Farbe anzuzeigen. Ändere die Farbe des Spielers in rot, indem du `Color.RED` als Argument für `set_player_color` verwendest.
