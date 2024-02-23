@@ -3,6 +3,7 @@
 1. Um die Spielerfarbe zu ändern, kannst du `set_player_color` verwenden. `set_player_color` nimmt ein Argument welches die Farbe des Spielers beschreibt. Hier verwenden wir zunächst `Color.BLACK` um den Spieler schwarz anzuzeigen.  
 
   Das sieht dann so aus:
+
   ```python
   set_player_color(Color.BLACK)
   ```
@@ -27,6 +28,7 @@
   
   > [!TIP]
   > Die weiteren Verfügbaren Farben sind:
+  >
   > * `Color.BLUE`
   > * `Color.GREEN`
   > * `Color.YELLOW`
@@ -41,7 +43,7 @@
 
 ## Zusammenfassung
 
-Super! Du hast gelernt, wie du die Farbe des Spielers ändern kannst. 
+Super! Du hast gelernt, wie du die Farbe des Spielers ändern kannst.
 
 Du kannst die Farbe des Spielers in jeder Farbe anzeigen, die du möchtest, indem du `set_player_color` verwendest, und dabei die gewünschte Farbe in Klammern übergibst.
 
